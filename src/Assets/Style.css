@@ -1,0 +1,34 @@
+
+.Carousel-Item{
+    height: 640px;
+    width: 50%;
+}
+.carousel-img{
+    height:640px;
+    width: 50%;
+}
+.data{
+    color: black;
+    font-weight: 500;
+}
+.carousel-control-next-icon{  
+    background-color:rgb(98 84 243);
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    padding: 5px!important;
+    margin: 10px!important;
+};
+
+
+.carousel-control-prev-icon{  
+    background-color:green!important;
+};
+.carousel-control-next{
+    background-color: green;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    padding: 5px!important;
+    margin: 10px!important;   
+}
