@@ -61,7 +61,7 @@ const NavBar = () => {
         align-content: center;
         flex-direction: column;
         text-align: center;
-        transform: translateX(100%);
+        // transform: translateX(100%);
         visibility: hidden;
         opacity: 0;
         li {
