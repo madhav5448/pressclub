@@ -29,6 +29,7 @@ const Footer = () => {
           <div className="footer-about">
             <h3>Madhya Pradesh Press Club</h3>
             <p>Address:Ater Road Bhind (M.P.)</p>
+            <p>Juridiction Area:Whole Madhya Pradesh</p>
           </div>
 
           {/* 2nd column */}

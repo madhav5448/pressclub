@@ -14,6 +14,7 @@ import image17 from "../Image/image17.jpeg"
 import image18 from "../Image/image18.jpeg"
 import image19 from "../Image/image19.jpeg"
 import image20 from "../Image/image20.jpeg"
+import image21 from "../Image/image21.jpeg"
 
 
 
@@ -44,18 +45,17 @@ const memberList = [
   },
   {
     id: 5,
+    name: 'Ganesh Bhardwaj',
+    designation: 'State Spoke-Person',
+    img: image21
+  },
+  {
+    id: 5,
     name: 'Santosh Kumar Gupta',
-    designation: 'State Vice-President',
+    designation: 'State Secretary',
     img: image20
   },
  
-
-  {
-    id: 5,
-    name: 'Ganesh Bhardwaj',
-    designation: 'State Spoke-Person',
-    img: image17
-  },
   {
   id:11,
   name: 'Anjum Manohar',
@@ -77,7 +77,7 @@ const memberList = [
   {
     id: 5,
     name: 'Shailendra Mishra',
-    designation: 'District  Assistent-Secretary',
+    designation: 'District  Joint-Secretary',
     img: image14
   },
   
