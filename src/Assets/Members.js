@@ -11,7 +11,7 @@ import image14 from "../Image/image14.jpeg"
 import image15 from "../Image/image15.jpeg"
 import image16 from "../Image/image16.jpeg"
 import image17 from "../Image/image17.jpeg"
-import image18 from "../Image/image18.jpeg"
+import image22 from "../Image/image22.jpg"
 import image19 from "../Image/image19.jpeg"
 import image20 from "../Image/image20.jpeg"
 import image21 from "../Image/image21.jpeg"
@@ -35,7 +35,7 @@ const memberList = [
     id: 3,
     name: 'Sachin Chauhan',
     designation: 'Senior State Vice-President',
-    img: image18
+    img: image22
   },
   {
     id: 4,
