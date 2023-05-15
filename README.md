@@ -26,13 +26,9 @@ To access the website, simply go to the URL provided (pressclub-blush.vercel.app
 
 - Contact Us - This section contains a form that can be used to contact the club.
 
-- Member Profiles:
+- Membera: The member section of the website is a list of all members of the press club. The list includes the member's name, designation, and contact information. 
 
-Each member has their own profile page which displays their name, photo, and a brief bio. Members can update their own profile information by logging in to the website using their personal credentials.
-
-- Data Storage:
-
-All the data on the website, including member profiles and event information, is stored securely in a localStorage.
+- Data Storage: All the data on the website, including member profiles and event information, is stored securely in a localStorage.
 
 ## To-do list
 
