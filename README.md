@@ -20,13 +20,11 @@ To access the website, simply go to the URL provided (pressclub-blush.vercel.app
 
 - About Us - This section contains more detailed information about the club, its history, and its mission.
 
-- Members - This section displays a list of all the club's members. Clicking on a member's name will take you to their individual profile page.
+- Members -The member section of the website is a list of all members of the press club. The list includes the member's name, designation, and contact information. 
 
 - Gallary - This section displays a list of upcoming ? past events organized by the club. Clicking on an Gallary will take you to a page with more information about the event.
 
 - Contact Us - This section contains a form that can be used to contact the club.
-
-- Membera: The member section of the website is a list of all members of the press club. The list includes the member's name, designation, and contact information. 
 
 - Data Storage: All the data on the website, including member profiles and event information, is stored securely in a localStorage.
 
