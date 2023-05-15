@@ -4,7 +4,7 @@ This is a website designed for the Media Press Club to store and display informa
 
 ## Getting Started:
 
-To access the website, simply go to the URL provided pressclub-blush.vercel.app. Once you are on the homepage, you will be able to navigate to the different sections of the website using the menu at the top of the page.
+To access the website, simply go to the URL provided (pressclub-blush.vercel.app). Once you are on the homepage, you will be able to navigate to the different sections of the website using the menu at the top of the page.
 
 ## To install the website, follow these steps:
 
